@@ -3,4 +3,8 @@ Jetzt kommt hier noch die dritte Zeile rein.
 Ich will aber meine Ändeurng haben
 Das ist die Zeile, die Probleme machen wird.
 
+function g(){
+	super funktion
+}
+
 Ich schreibe dann hier mal was.
